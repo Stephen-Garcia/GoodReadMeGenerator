@@ -57,3 +57,5 @@ Find me on GitHub: [${data.github}](https://github.com/${data.github})<br />
     
   `;
 }
+
+module.exports = generateMarkdown;
